@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Shopping List</string>
+    <string name="item_list_name">Item List</string>
+    <string name="button_main">Add Item</string>
+    <string name="fruit_apple">Apple</string>
+    <string name="fruit_banana">Banana</string>
+    <string name="fruit_clementine">Clementine</string>
+    <string name="fruit_dragonfruit">Dragonfruit</string>
+    <string name="fruit_eggplant">Eggplant</string>
+    <string name="fruit_fig">Fig</string>
+    <string name="fruit_grapefruit">Grapefruit</string>
+    <string name="fruit_honeydew">Honeydew</string>
+    <string name="fruit_prune">Indian Prune</string>
+    <string name="fruit_jackfruit">Jackfruit</string>
 </resources>
