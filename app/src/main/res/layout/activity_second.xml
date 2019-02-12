@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activity_second"
+    tools:context=".SecondActivity"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnApple"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fruit_apple"
+        android:onClick="addItem"/>
+
+    <Button
+        android:id="@+id/btnBanana"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fruit_banana"
+        android:onClick="addItem"/>
+
+    <Button
+        android:id="@+id/btnClementines"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fruit_clementine"
+        android:onClick="addItem"/>
+
+    <Button
+        android:id="@+id/btnDragonfruit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fruit_dragonfruit"
+        android:onClick="addItem"/>
+
+    <Button
+        android:id="@+id/btnEggplant"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fruit_eggplant"
+        android:onClick="addItem"/>
+
+    <Button
+        android:id="@+id/btnFig"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fruit_fig"
+        android:onClick="addItem"/>
+
+    <Button
+        android:id="@+id/btnGrapefruit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fruit_grapefruit"
+        android:onClick="addItem"/>
+
+    <Button
+        android:id="@+id/btnHoneydew"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fruit_honeydew"
+        android:onClick="addItem"/>
+
+    <Button
+        android:id="@+id/btnJackfruit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fruit_jackfruit"
+        android:onClick="addItem"/>
+
+    <Button
+        android:id="@+id/btnPrune"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fruit_prune"
+        android:onClick="addItem"/>
+
+</LinearLayout>
